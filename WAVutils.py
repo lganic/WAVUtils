@@ -15,6 +15,7 @@ def yieldAllInputDevices():
 
 class formatError(Exception):
     pass
+    pass
 
 class singleAudioStream:
     def __init__(self,bitrate,stream=None):
